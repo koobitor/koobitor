@@ -7,10 +7,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koobitor" alt="koobitor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/koobitor" target="blank"><img src="https://img.shields.io/twitter/follow/koobitor?logo=twitter&style=for-the-badge" alt="koobitor" /></a> </p>
-
-- 📫 How to reach me **koobitor@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/koobitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="koobitor" height="30" width="40" /></a>
