@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakol Assawasagool</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate full stack web developer from Thailand</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koobitor&" alt="koobitor" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=koobitor&label=Profile%20views&color=0e75b6&style=flat" alt="koobitor" /> </p>
